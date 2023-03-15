@@ -1,0 +1,20 @@
+[
+    {
+        "id_carrito": 1,
+        "id_usuario": 1,
+        "fecha": "2023-03-07",
+        "valor_total_compra": 0
+    },
+    {
+        "id_carrito": 2,
+        "id_usuario": 2,
+        "fecha": "2023-03-07",
+        "valor_total_compra": 0
+    },
+    {
+        "id_carrito": 3,
+        "id_usuario": 3,
+        "fecha": "2023-03-07",
+        "valor_total_compra": 113800.0
+    }
+]

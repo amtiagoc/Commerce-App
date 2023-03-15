@@ -1,0 +1,37 @@
+[
+    {
+        "id_venta": 1,
+        "id_producto": 1,
+        "id_carrito": 4,
+        "cantidad": 3,
+        "valor_total": 18000
+    },
+    {
+        "id_producto": 1,
+        "cantidad": 3,
+        "id_venta": 2,
+        "id_carrito": 3,
+        "valor_total": 9000
+    },
+    {
+        "id_producto": 2,
+        "cantidad": 4,
+        "id_venta": 3,
+        "id_carrito": 3,
+        "valor_total": 16000
+    },
+    {
+        "id_producto": 4,
+        "cantidad": 6,
+        "id_venta": 4,
+        "id_carrito": 3,
+        "valor_total": 51000
+    },
+    {
+        "id_producto": 5,
+        "cantidad": 6,
+        "id_venta": 5,
+        "id_carrito": 3,
+        "valor_total": 37800.0
+    }
+]

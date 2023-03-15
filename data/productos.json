@@ -1,0 +1,42 @@
+[
+    {
+        "id_producto": 1,
+        "sku": "WE1234",
+        "nombre": "Arroz",
+        "descripcion": "Arroz blanco de grano largo",
+        "numero_unidades": 30,
+        "precio_unitario": 3000
+    },
+    {
+        "id_producto": 2,
+        "sku": "EA5678",
+        "nombre": "Leche",
+        "descripcion": "Leche descremada",
+        "numero_unidades": 20,
+        "precio_unitario": 4000
+    },
+    {
+        "id_producto": 3,
+        "sku": "SP9012",
+        "nombre": "Pan",
+        "descripcion": "Pan integral",
+        "numero_unidades": 50,
+        "precio_unitario": 5500
+    },
+    {
+        "id_producto": 4,
+        "sku": "WE3456",
+        "nombre": "Frijoles",
+        "descripcion": "Frijoles negros",
+        "numero_unidades": 50,
+        "precio_unitario": 8500
+    },
+    {
+        "id_producto": 5,
+        "sku": "SP7890",
+        "nombre": "Huevos",
+        "descripcion": "Huevos blancos",
+        "numero_unidades": 18,
+        "precio_unitario": 10500
+    }
+]
